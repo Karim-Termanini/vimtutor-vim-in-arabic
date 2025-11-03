@@ -9,7 +9,7 @@
 <p><strong>اكتب <code>dw</code> لحذف حتى نهاية الكلمة.</strong></p>
 
 <ol>
-  <li>اضغط <code><ESC></code> للتأكد من أنك في الوضع العادي.</li>
+  <li>اضغط <code> ESC </code> للتأكد من أنك في الوضع العادي.</li>
 
 <li>حرك المؤشر إلى السطر أدناه المحدد بـ --->.</li>
 
@@ -18,7 +18,7 @@
 </ol>
 
 <div style="background: #f0f0f0; padding: 10px; border-right: 4px solid #ccc; margin: 15px 0;">
-<strong>ملاحظة:</strong> الحروف dw ستظهر على السطر الأخير من الشاشة أثناء الكتابة. إذا كتبت شيئاً خاطئاً، اضغط <code><ESC></code> وابدأ من جديد.
+<strong>ملاحظة:</strong> الحروف dw ستظهر على السطر الأخير من الشاشة أثناء الكتابة. إذا كتبت شيئاً خاطئاً، اضغط <code> ESC </code> وابدأ من جديد.
 </div>
 
 <strong>---&gt; There are a some words fun that don't belong paper in this sentence.</strong>
@@ -38,7 +38,7 @@
 <p><strong>اكتب <code>d$</code> لحذف حتى نهاية السطر.</strong></p>
 
 <ol>
-  <li>اضغط <code><ESC></code> للتأكد من أنك في الوضع العادي.</li>
+  <li>اضغط <code> ESC </code> للتأكد من أنك في الوضع العادي.</li>
 
 <li>حرك المؤشر إلى السطر أدناه المحدد بـ --->.</li>
 
