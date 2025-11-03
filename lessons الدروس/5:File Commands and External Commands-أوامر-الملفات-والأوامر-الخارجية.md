@@ -13,12 +13,12 @@
 
 <li>الآن اكتب حرف <code>!</code> (علامة التعجب). هذا يسمح لك بتنفيذ أي أمر shell خارجي.</li>
 
-<li>كمثال، اكتب <code>ls</code> بعد ! ثم اضغط <code><ENTER></code>. هذا سيعرض لك قائمة بمحتويات مجلدك، كما لو كنت في سطر الأوامر. أو استخدم <code>:!dir</code> إذا لم يعمل ls.</li>
+<li>كمثال، اكتب <code>ls</code> بعد ! ثم اضغط <code> ENTER </code>. هذا سيعرض لك قائمة بمحتويات مجلدك، كما لو كنت في سطر الأوامر. أو استخدم <code>:!dir</code> إذا لم يعمل ls.</li>
 </ol>
 
 <div style="background: #f0f0f0; padding: 10px; border-right: 4px solid #ccc; margin: 15px 0;">
 <strong>---> ملاحظة:</strong> من الممكن تنفيذ أي أمر خارجي بهذه الطريقة.
-<br><strong>---> ملاحظة:</strong> جميع أوامر <code>:</code> يجب إنهاؤها بالضغط على <code><ENTER></code>
+<br><strong>---> ملاحظة:</strong> جميع أوامر <code>:</code> يجب إنهاؤها بالضغط على <code> ENTER </code>
 </div>
 
 <hr style="margin: 30px 0; border: 1px dashed #ccc;">
@@ -32,7 +32,7 @@
 <p><strong>لحفظ التغييرات التي أجريت على الملف، اكتب <code>:w اسم_الملف</code>.</strong></p>
 
 <ol>
-  <li>اكتب <code>:!dir</code> أو <code>:!ls</code> للحصول على قائمة بمجلدك. أنت تعرف بالفعل أنه يجب الضغط على <code><ENTER></code> بعد هذا.</li>
+  <li>اكتب <code>:!dir</code> أو <code>:!ls</code> للحصول على قائمة بمجلدك. أنت تعرف بالفعل أنه يجب الضغط على <code> ENTER </code> بعد هذا.</li>
 
 <li>اختر اسم ملف غير موجود بعد، مثل TEST.</li>
 
