@@ -119,10 +119,12 @@ The Vim development team for the great tool
 Michael C. Pierce and Robert K. Ware for the original vimtutor
 
 Bram Moolenaar for Vim
+
 📞 التواصل
 📧 لديك استفسار؟ افتح Issue
 
 💡 لديك فكرة؟ ناقشها في Discussions
+
 
 <div dir="ltr" align="center">
 ⭐ Don't forget to star the project if you like it!
